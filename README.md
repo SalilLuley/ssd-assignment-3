@@ -31,7 +31,7 @@ This is a simple Bitcoin blockchain viewer application developed as part of the 
 
 Run the application using the following command:
 ```sh
-    go run main.go
+go run main.go
 ```
 
 or
