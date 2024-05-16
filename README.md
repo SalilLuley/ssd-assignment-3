@@ -34,7 +34,7 @@ Run the application using the following command:
     go run main.go
 ```
 
-    OR
+or
 
 ```sh
 ./bitcoin-viewer
