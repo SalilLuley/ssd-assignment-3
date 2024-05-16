@@ -30,6 +30,11 @@ This is a simple Bitcoin blockchain viewer application developed as part of the 
 ## Usage
 
 Run the application using the following command:
+```sh
+    go run main.go
+```
+
+    OR
 
 ```sh
 ./bitcoin-viewer
